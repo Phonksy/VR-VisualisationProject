@@ -1,2 +1,2 @@
-# VR-VisualisationProject
-A project for university internship
+# VRProject
+ Universiteto praktikos projektas
